@@ -1,0 +1,23 @@
+{
+    "name": "TDD",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "test": "mocha"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^6.1.4"
+    },
+    "dependencies": {
+        "lodash": "^4.17.11",
+        "uuid": "^3.3.2"
+    }
+}
